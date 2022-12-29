@@ -57,16 +57,6 @@ input{
     padding: 0 10px;
 }
 
-/*for chrome, safari,edge,opera */
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button{
-    -webkit-appearance: none;
-}
-/* for mozila firefox */
-input{
-    -moz-appearance: textfield;
-}
-
 
 .icon{
     flex: 1;
